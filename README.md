@@ -6,6 +6,5 @@ I'm Matthias, currently a 19-years-old student in computer engineering at EPITA 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellsCrimson&theme=dark&layout=compact&hide=Mathematica,ShaderLab)
 
-<!--
-![HellsCrimson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HellsCrimson)
--->
+![HellsCrimson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HellsCrimson&theme=dark)
+
