@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, ~~General Kenobi~~ 👋
 
 I'm Matthias, currently a 19-years-old student in computer engineering at EPITA in Paris.
 
