@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthias</h1>
 <h3 align="center">A 19-years-old student in computer engineering at EPITA in Paris</h3>
 
-- 🔭 I’m currently working on [AimTrainer](https://github.com/HellsCrimson/AimTrainer)
+<!-- - 🔭 I’m currently working on [AimTrainer](https://github.com/HellsCrimson/AimTrainer)-->
 
 - 🌱 I’m currently learning **C, C++, Dart**
 
