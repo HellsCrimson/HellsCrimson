@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [AimTrainer](https://github.com/HellsCrimson/AimTrainer)-->
 
-- 🌱 I’m currently learning **C, C++, Dart**
+- 🌱 I’m currently learning **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,9 @@
 <p>
 <img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=HellsCrimson&theme=chartreuse-dark" alt="Wakatime" width="47%" />
   
-<img align="right" src="https://github-readme-stats-kappa-vert.vercel.app/api?username=hellscrimson&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="hellscrimson" width="50%" />
+<img align="right" src="https://github-readme-stats-kappa-vert.vercel.app/api?username=hellscrimson&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="hellscrimson" width="47%" />
+  
+<br><br><br><br><br><br><br><br><br>
 
 <img align="left" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson" width="45%" />
 </p>
