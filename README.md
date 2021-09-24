@@ -15,15 +15,9 @@
 
 <p>
 <img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=HellsCrimson&theme=chartreuse-dark" alt="Wakatime" width="47%" />
-
-<img align="right" src="https://github-readme-stats-kappa-vert.vercel.app/api/top-langs?username=hellscrimson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=Mathematica,ShaderLab&count_private=true" alt="hellscrimson" width="47%" />
   
-<img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api?username=hellscrimson&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="hellscrimson" width="50%" />
+<img align="right" src="https://github-readme-stats-kappa-vert.vercel.app/api?username=hellscrimson&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="hellscrimson" width="50%" />
 
-<img align="right" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson" width="45%" />
+<img align="left" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson" width="45%" />
 </p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<img align="justify" src="https://komarev.com/ghpvc/?username=hellscrimson&label=Profile%20views&color=0e75b6&style=flat" alt="hellscrimson" />
 
