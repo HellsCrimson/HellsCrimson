@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [AimTrainer](https://github.com/HellsCrimson/AimTrainer)-->
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C / Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
