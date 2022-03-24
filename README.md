@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthias</h1>
 <h3 align="center">A 19-years-old student in computer engineering at EPITA in Paris</h3>
 
-<!-- - 🔭 I’m currently working on [AimTrainer](https://github.com/HellsCrimson/AimTrainer)-->
+ - 🔭 I’m currently working on [Benkyō](https://github.com/HellsCrimson/Benkyo)
 
-- 🌱 I’m currently learning **C / Java**
+- 🌱 I’m currently learning **C / Java / Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +16,10 @@
 <p>
 <img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=HellsCrimson&theme=chartreuse-dark&langs_count=8" alt="Wakatime"/>
 </p>
-<a href="https://wakatime.com/@a92685cf-14be-4aa7-8954-9a93fd4d889b"><img src="https://wakatime.com/badge/user/a92685cf-14be-4aa7-8954-9a93fd4d889b.svg" alt="Total time coded since Jul 18 2021" /></a>
+<p>
+<a href="https://wakatime.com/@a92685cf-14be-4aa7-8954-9a93fd4d889b" target="blank"><img src="https://wakatime.com/badge/user/a92685cf-14be-4aa7-8954-9a93fd4d889b.svg" alt="Total time coded since Jul 18 2021" /></a>
+  </p>
 
-
+<p>
 <img align="left" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson"/>
-
+</p>
