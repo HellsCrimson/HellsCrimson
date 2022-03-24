@@ -16,8 +16,8 @@
 <p align="center">
 <img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=HellsCrimson&theme=chartreuse-dark&langs_count=8" alt="Wakatime"/>
 
-<img align="left" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson" /> <p></p>
+<img align="left" src="https://discord.c99.nl/widget/theme-2/220479090602278912.png" alt="hellscrimson" />
  
- <img src="https://wakatime.com/badge/user/a92685cf-14be-4aa7-8954-9a93fd4d889b.svg" alt="Total time coded since Jul 18 2021" />
+<img align="left" src="https://wakatime.com/badge/user/a92685cf-14be-4aa7-8954-9a93fd4d889b.svg" alt="Total time coded since Jul 18 2021" width="250" />
 
 </p>
