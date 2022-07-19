@@ -1,1 +1,5 @@
-![Metric](/github-metrics.svg)
+[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/general.svg">](#)
+[<img align="right" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/wakatime.svg">](#)
+[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/anilist.svg">](#)
+[<img align="right" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/achivements.svg">](#)
+[<img align="left" width="150" alt="" src="https://komarev.com/ghpvc/?username=hellscrimson&label=Profile%20views&color=0e75b6&style=flat">](https://youtu.be/dQw4w9WgXcQ)
