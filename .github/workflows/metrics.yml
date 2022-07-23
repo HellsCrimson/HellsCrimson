@@ -94,3 +94,26 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: HellsCrimson
+  
+  steam-box:
+    name: Steam-Box
+    runs-on: ubuntu-latest
+    env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          STEAM_API_KEY: ${{ secrets.STEAM_API }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+    steps:
+
+    - name: Set up Go 1.x
+      uses: actions/setup-go@v2
+      with:
+        go-version: ^1.14
+      id: go
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+      
+    - name: Update-gist
+      run:  go run ./cmd/box/main.go
+      
