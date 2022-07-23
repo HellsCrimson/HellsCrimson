@@ -117,20 +117,13 @@ jobs:
         run: |-
             git clone https://github.com/YouEclipse/steam-box.git 
             cd steam-box && go build -o steam ./cmd/box/main.go
-            mv ./steam ../ && cd .. && rm -rf steam-box/ && ./steam
+            mv ./steam ../ && cd .. && rm -rf steam-box/
       
-      - name: Screenshot
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          base: ""
-          filename: steam-box.svg
-          config_timezone: Europe/Paris
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_ID }}
-          plugin_screenshot: yes
-          plugin_screenshot_title: Steam-Box
-          plugin_screenshot_url: https://gist.githubusercontent.com/HellsCrimson/${{ secrets.GIST_ID }}/raw/287bab8ec523c5900f6c023d887e37ee492a40d1/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard
-          plugin_screenshot_background: false
+      - name: Commit and push
+        run: |-
+          ./steam
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull && git push
+      
