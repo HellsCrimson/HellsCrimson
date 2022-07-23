@@ -115,5 +115,8 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Update-gist
-      run:  go run ./cmd/box/main.go
+      run: |-
+          git clone https://github.com/YouEclipse/steam-box.git 
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/ && ./steam
       
