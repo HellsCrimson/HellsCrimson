@@ -2,4 +2,5 @@
 [<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/wakatime.svg">](#)
 [<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/achivements.svg">](#)
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/anilist.svg">](#)
+[<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/287bab8ec523c5900f6c023d887e37ee492a40d1/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard">](#)
 [<img align="left" width="150" alt="" src="https://komarev.com/ghpvc/?username=hellscrimson&label=Profile%20views&color=0e75b6&style=flat">](https://youtu.be/dQw4w9WgXcQ)
