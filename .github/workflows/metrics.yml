@@ -104,19 +104,33 @@ jobs:
           STEAM_API_KEY: ${{ secrets.STEAM_API }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
     steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.14
+        id: go
 
-    - name: Set up Go 1.x
-      uses: actions/setup-go@v2
-      with:
-        go-version: ^1.14
-      id: go
-
-    - name: Check out code into the Go module directory
-      uses: actions/checkout@v2
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v2
+        
+      - name: Update-gist
+        run: |-
+            git clone https://github.com/YouEclipse/steam-box.git 
+            cd steam-box && go build -o steam ./cmd/box/main.go
+            mv ./steam ../ && cd .. && rm -rf steam-box/ && ./steam
       
-    - name: Update-gist
-      run: |-
-          git clone https://github.com/YouEclipse/steam-box.git 
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/ && ./steam
-      
+      - name: Screenshot
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          filename: steam-box.svg
+          config_timezone: Europe/Paris
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          plugin_screenshot: yes
+          plugin_screenshot_title: Steam-Box
+          plugin_screenshot_url: https://gist.githubusercontent.com/HellsCrimson/${{ secrets.GIST_ID }}/raw/287bab8ec523c5900f6c023d887e37ee492a40d1/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard
+          plugin_screenshot_background: false
