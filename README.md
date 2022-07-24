@@ -2,6 +2,7 @@
 [<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/wakatime.svg">](#)
 [<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/achivements.svg">](#)
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/anilist.svg">](#)
+[<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/fortune.svg">](#)
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">🎮 Steam playtime leaderboard</a>
