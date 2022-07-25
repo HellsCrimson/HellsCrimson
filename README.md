@@ -5,7 +5,7 @@
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/2f69ee5496ffd5a81d94517f65fac0ba507eb64c/fortune.svg">](#)
 
 <!-- steam-box start -->
-<a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">🎮 Steam playtime leaderboard</a>
+<a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">Steam playtime leaderboard</a>
 ```text
 🎮 Warframe                         🕘 1176 hrs 29 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 257 hrs 48 mins
