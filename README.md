@@ -1,5 +1,5 @@
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/general.svg">](#)
-[<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/wakatime.svg">](#)
+[<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/6eae707a566d2735670f18a22a9abd94784c2fe8/wakatime.svg">](#)
 [<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/achivements.svg">](#)
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/080814ff5ba4fa6af08a7ed54e2ee4a4b753f209/anilist.svg">](#)
 [<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/2f69ee5496ffd5a81d94517f65fac0ba507eb64c/fortune.svg">](#)
