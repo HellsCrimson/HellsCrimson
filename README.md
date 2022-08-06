@@ -1,8 +1,8 @@
-[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/general.svg">](#)
-[<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/6eae707a566d2735670f18a22a9abd94784c2fe8/assets/wakatime.svg">](#)
-[<img align="right" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/6eae707a566d2735670f18a22a9abd94784c2fe8/assets/achivements.svg">](#)
-[<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/6eae707a566d2735670f18a22a9abd94784c2fe8/assets/anilist.svg">](#)
-[<img align="left" width="390" alt="" src="https://gist.githubusercontent.com/HellsCrimson/f145e9b9506cb2535434d7461f3c299e/raw/6eae707a566d2735670f18a22a9abd94784c2fe8/assets/fortune.svg">](#)
+[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/general.svg">](#)
+[<img align="right" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/wakatime.svg">](#)
+[<img align="right" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/achivements.svg">](#)
+[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/anilist.svg">](#)
+[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/fortune.svg">](#)
 
 <!-- steam-box start -->
 <a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">Steam playtime leaderboard</a>
