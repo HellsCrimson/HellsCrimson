@@ -16,4 +16,6 @@
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
+[<img align="right" width="390" alt="" src="https://raw.githubusercontent.com/HellsCrimson/HellsCrimson/main/assets/page_speed.svg">](#)
+
 [<img align="left" width="150" alt="" src="https://komarev.com/ghpvc/?username=hellscrimson&label=Profile%20views&color=0e75b6&style=flat">](https://youtu.be/dQw4w9WgXcQ)
