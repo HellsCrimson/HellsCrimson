@@ -8,7 +8,7 @@
 <a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">Steam playtime leaderboard</a>
 ```text
 🎮 Warframe                         🕘 1178 hrs 59 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 263 hrs 14 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 263 hrs 22 mins
 🎮 Garry's Mod                      🕘 166 hrs 23 mins
 🎮 Trove                            🕘 158 hrs 37 mins
 🎮 Elite Dangerous                  🕘 104 hrs 27 mins
