@@ -10,7 +10,7 @@
 🎮 Warframe                         🕘 1186 hrs 40 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 379 hrs 21 mins
 🎮 The Elder Scrolls V: Skyrim      🕘 301 hrs 55 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 265 hrs 46 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 266 hrs 47 mins
 🎮 Garry's Mod                      🕘 166 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
