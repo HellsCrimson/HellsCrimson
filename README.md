@@ -7,7 +7,7 @@
 <!-- steam-box start -->
 <a href="https://gist.github.com/f145e9b9506cb2535434d7461f3c299e" target="_blank">Steam playtime leaderboard</a>
 ```text
-🎮 Warframe                         🕘 1186 hrs 40 mins
+🎮 Warframe                         🕘 1187 hrs 15 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 379 hrs 21 mins
 🎮 The Elder Scrolls V: Skyrim      🕘 301 hrs 55 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 269 hrs 27 mins
