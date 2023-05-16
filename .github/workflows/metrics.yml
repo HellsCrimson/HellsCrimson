@@ -84,7 +84,7 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_url: https://wakapi.hellscrimson.eu
+          plugin_wakatime_url: https://wakapi.hellscrimson.fr
           plugin_wakatime_user: HellsCrimson
 
       - name: PageSpeed
@@ -98,7 +98,7 @@ jobs:
           config_timezone: Europe/Paris
           plugin_pagespeed: true
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://www.hellscrimson.eu
+          plugin_pagespeed_url: https://www.hellscrimson.fr
           plugin_pagespeed_detailed: true
 
       - name: Fortune
