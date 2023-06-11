@@ -61,23 +61,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">spider</span>
-                                <div class="bar" style="width: 77.336%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 77.432%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">97%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">tmp</span>
-                                <div class="bar" style="width: 1.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8399999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MiniMake</span>
                                 <div class="bar" style="width: 0.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">unknown</span>
-                                <div class="bar" style="width: 0.09599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -86,22 +81,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 72.896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.984%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 2.2880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 1.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8239999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 1.1119999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
