@@ -111,6 +111,32 @@ jobs:
           filename: assets/fortune.svg
           config_timezone: Europe/Paris
           plugin_fortune: yes
+      
+      - name: Steam
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          filename: assets/steam.svg
+          config_timezone: Europe/Paris
+          plugin_steam: yes
+          plugin_steam_sections: player, most-played
+          plugin_steam_user: 76561198076336608
+      
+      - name: LeetCode
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          filename: assets/leetcode.svg
+          config_timezone: Europe/Paris
+          plugin_leetcode: yes
+          plugin_leetcode_user: HellsCrimson
+          plugin_leetcode_sections: solved, skills, recent
   
   steam-box:
     name: Steam-Box
