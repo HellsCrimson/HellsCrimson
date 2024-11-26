@@ -61,27 +61,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">my-bit-torrent</span>
-                                <div class="bar" style="width: 49.775999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <div class="bar" style="width: 48.327999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">epita-ing-assistants-acu-bittorrent-2027-group-117</span>
-                                <div class="bar" style="width: 9.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 9.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">epita-ing-assistants-acu-bittorrent-2027-group-79</span>
-                                <div class="bar" style="width: 9.168000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 9.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Homelab</span>
-                                <div class="bar" style="width: 5.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">epita-ing-assistants-acu-bittorrent-2027-group-83</span>
-                                <div class="bar" style="width: 3.6399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.8159999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -91,27 +91,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 47.29599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
+                                <div class="bar" style="width: 46.456%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">58%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 11.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Nix</span>
-                                <div class="bar" style="width: 7.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 12.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Meson</span>
-                                <div class="bar" style="width: 6.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 6.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Nix</span>
+                                <div class="bar" style="width: 6.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 5.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                         </div>
@@ -123,12 +123,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 74.416%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 74.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">93%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Windows</span>
-                                <div class="bar" style="width: 5.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                         </div>
