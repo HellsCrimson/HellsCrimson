@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/achivements.svg
           config_timezone: Europe/Paris
@@ -31,7 +31,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/anilist.svg
           config_timezone: Europe/Paris
@@ -48,7 +48,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: header, activity, community, repositories, metadata
           filename: assets/general.svg
           config_timezone: Europe/Paris
@@ -74,7 +74,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/wakatime.svg
           config_timezone: Europe/Paris
@@ -92,7 +92,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/page_speed.svg
           config_timezone: Europe/Paris
@@ -106,7 +106,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/steam.svg
           config_timezone: Europe/Paris
@@ -120,7 +120,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          #template: classic
           base: ""
           filename: assets/leetcode.svg
           config_timezone: Europe/Paris
